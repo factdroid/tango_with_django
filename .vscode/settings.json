@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/osam/anaconda3/envs/djangoenv/bin/python"
+    "python.pythonPath": "/home/osam/anaconda3/envs/djangoenv/bin/python",
+    "python.linting.pylintPath": "pylint_django"
 }
